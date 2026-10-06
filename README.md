@@ -2,6 +2,12 @@
 
 A nonlinear ball-and-beam control simulation with a PID controller, noisy sensor model, Kalman state estimation, automatic gain tuning, performance metrics, and an interactive Streamlit visualisation.
 
+## Live Demo
+
+Try the interactive simulation:
+
+**[Launch the Ball-and-Beam Control Lab](https://ball-beam-control-pid-lab-dyxqdgjwunenhqwoyrqgee.streamlit.app/)**
+
 ## What it demonstrates
 
 - Nonlinear ball dynamics using
